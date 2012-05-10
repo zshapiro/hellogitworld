@@ -3,5 +3,13 @@ And each separate dying ember wrought its ghost upon the floor
 Eagerly I wished the morrow; vainly I had sought to borrow
 From my books surcease of sorrow
 Sorrow for the lost Lenore
-Cool story
+Cool story, bro. Tell it again.
+
+"Be that word our sign of parting, building fiend!" I shrieked upstarting—
+"Get thee back to Sonatype deep in the night's Plutonian shore!
+Leave no jar file as a token of that lie thy soul hath spoken!
+Leave my project's build unbroken!—quit my central source code store!
+Take thy POM from out my heart, and take thy cache from my code store!"
+Quoth the Maven, "Nevermore."
+
 
