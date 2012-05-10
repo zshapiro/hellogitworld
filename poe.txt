@@ -1,9 +1,23 @@
-Ah, distinctly I remember, it was in the bleak December
-And each separate dying ember wrought its ghost upon the floor
-Eagerly I wished the morrow; vainly I had sought to borrow
-From my books surcease of sorrow
-Sorrow for the lost Lenore
-Cool story, bro. Tell it again.
+Then, methought, the air grew denser, perfumed by an unseen censer [ECU: dull eyes getting wild]
+And dependencies whose downloads glut my cache, and even more.
+`Wretch,' I cried, `VanZyl hath lent you—by these downloads he has sent you
+Respite—respite and some Red Bull from my cursed source code store
+Quaff, oh quaff this can of Red Bull, and forget this source code store!'
+Quoth the Maven, "Nevermore." [Maven build failure]
+
+"Prophet!" said I, "thing of evil!—prophet still, build tool or devil!—
+Whether useful tool, or whether bane of every coder on this floor
+Desolate yet all undaunted, on this code base yet enchanted—
+On this build by horror haunted—tell me truly, I implore—
+Is there a tool that would not own me? Tell me, tell me, I implore!"
+Quoth the Maven, "Nevermore." [Maven build failure]
+
+"Prophet!" said I, "thing of evil!—prophet still, build tool or devil!
+By that Heaven that bends above us—by that God we both adore—
+Tell this soul with sorrow laden if, by building with the Maven,
+Shall I never make the claim that I retain just some control?
+Could some little token of my build remain in my control?"
+Quoth the Maven, "Nevermore." [Maven build failure]
 
 "Be that word our sign of parting, building fiend!" I shrieked upstarting—
 "Get thee back to Sonatype deep in the night's Plutonian shore!
