@@ -1,5 +1,1 @@
-qwertyuiop[]\
 asdfghjkl;'
-zxcvbnm,./
-
-Test file
